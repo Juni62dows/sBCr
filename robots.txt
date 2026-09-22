@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://server.benderchat.ru/sitemap.xml
